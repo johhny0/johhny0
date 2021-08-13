@@ -1,9 +1,18 @@
 ### Hi there 👋
 
-<!--
-**johhny0/johhny0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
 
-Here are some ideas to get you started:
+<div>
+	<a href="https://github.com/anuraghazra/github-readme-stats">
+		<img align="center" src="https://github-readme-stats.vercel.app/api?username=johhny0&count_private=true&show_icons=true&theme=blueberry"/>
+	</a>
+	<a href="https://github.com/anuraghazra/convoychat">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johhny0&count_private=true&show_icons=true&theme=blueberry&layout=compact&langs_count=8"/>
+	</a>
+</div>
+
+
+<!--
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +22,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
 -->
