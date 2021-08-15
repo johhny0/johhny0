@@ -2,6 +2,7 @@
 
 ##
 
+
 <div>
 	<a href="https://github.com/anuraghazra/github-readme-stats">
 		<img align="center" src="https://github-readme-stats.vercel.app/api?username=johhny0&count_private=true&show_icons=true&theme=blueberry"/>
@@ -11,17 +12,30 @@
 	</a>
 </div>
 
+##
 
-<!--
+```ts
+const dev: Developer = {
+    name: "Johhny",
+    learning: ["Typescript", "NestJS", "TypeORM", "JWT", "SQLite", "Heroku"],
+    languages: ["C#", "PHP", "JavaScript"],
+    frameworks: ["EntityFramework", "Laravel", "VueJs"],
+    platforms: [],
+    cicd: []
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+};
 
+console.log(`Hello, my name is ${dev.name} and you are welcome to my humble GitHub space 😉`);
+```
 
--->
+## Contact
+
+<div>
+	<br>
+	<a href="mailto:johhny.hasse@gmail.com">
+		<img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+	</a>
+	<a href="https://www.linkedin.com/in/johhny-hasse/">
+		<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+	</a>
+</div>
