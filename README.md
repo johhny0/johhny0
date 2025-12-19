@@ -17,7 +17,7 @@
 ```ts
 const dev: Developer = {
     name: "Johhny",
-    learning: ["Typescript", "NestJS", "TypeORM", "JWT", "SQLite", "Heroku"],
+    learning: ["Typescript", "NestJS", "TypeORM", "JWT", "VueJs"],
     languages: ["C#", "PHP", "JavaScript"],
     frameworks: ["EntityFramework", "Laravel", "VueJs"],
     platforms: [],
