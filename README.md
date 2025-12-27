@@ -4,11 +4,11 @@
 
 
 <div>
-	<a href="https://github.com/anuraghazra/github-readme-stats">
-		<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=johhny0&count_private=true&show_icons=true&theme=blueberry"/>
+	<a href="https://github.com/Pranesh-2005/github-readme-stats">
+		<img height="180em" align="center" src="https://github-readme-stats-fast.vercel.app/api?username=johhny0&count_private=true&show_icons=true&theme=blueberry"/>
 	</a>
 	<a href="https://github.com/anuraghazra/convoychat">
-		<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johhny0&count_private=true&show_icons=true&theme=blueberry&layout=compact&langs_count=8"/>
+		<img height="180em" align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=johhny0&count_private=true&show_icons=true&theme=blueberry&layout=compact&langs_count=8"/>
 	</a>
 </div>
 
